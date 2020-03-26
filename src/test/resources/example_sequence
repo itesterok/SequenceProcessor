@@ -1,0 +1,8 @@
+REMOVE_DUPLICATES
+aaaaaa;bbbbbb;cccccc;dddddd;aaaaaa;bbbbbb;cc
+
+INVERSE
+aaaaaa;bbbbbb;cccccc;dddddd
+
+SORT
+ddd;aaa;bbb

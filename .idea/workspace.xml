@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17168021-b68e-4871-aa81-49d24a4636f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="pom" pattern="pom.xml" />
+  </component>
+  <component name="ProjectId" id="1Yi2Om68cbXr3J6eTIow1j86ERC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="operations" />
+      <recent name="sequence" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sequence" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Andrey\DEV\Projects\Java\SequenceProcessor\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Runner No args">
+    <configuration name="Runner No args" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="SequenceProcessor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SequenceProcessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SequenceProcessor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeautyFormatterTest.beautyPrinterWorksOnNotEmptySequence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SequenceProcessor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BeautyFormatterTest" />
+      <option name="METHOD_NAME" value="beautyPrinterWorksOnNotEmptySequence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationsProcessorFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SequenceProcessor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="operations" />
+      <option name="MAIN_CLASS_NAME" value="operations.OperationsProcessorFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceProcessorTest.inverseOperationOnCorrectInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SequenceProcessor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SequenceProcessorTest" />
+      <option name="METHOD_NAME" value="inverseOperationOnCorrectInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Runner No args" />
+      <item itemvalue="JUnit.All in SequenceProcessor" />
+      <item itemvalue="JUnit.BeautyFormatterTest.beautyPrinterWorksOnNotEmptySequence" />
+      <item itemvalue="JUnit.OperationsProcessorFactoryTest" />
+      <item itemvalue="JUnit.SequenceProcessorTest.inverseOperationOnCorrectInput" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in SequenceProcessor" />
+        <item itemvalue="JUnit.SequenceProcessorTest.inverseOperationOnCorrectInput" />
+        <item itemvalue="JUnit.BeautyFormatterTest.beautyPrinterWorksOnNotEmptySequence" />
+        <item itemvalue="JUnit.OperationsProcessorFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17168021-b68e-4871-aa81-49d24a4636f4" name="Default Changelist" comment="" />
+      <created>1583411064690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583411064690</updated>
+      <workItem from="1583411070474" duration="7274000" />
+      <workItem from="1583443911190" duration="603000" />
+      <workItem from="1583702665793" duration="6455000" />
+      <workItem from="1584135209786" duration="4081000" />
+      <workItem from="1584217542373" duration="3797000" />
+      <workItem from="1584562190519" duration="5643000" />
+      <workItem from="1584995233327" duration="4912000" />
+      <workItem from="1585170395148" duration="4099000" />
+      <workItem from="1585214960935" duration="7702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585223320562">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585223320562" />
+    <state x="378" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584137787598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="378" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1584137787598" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1583703139564">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583703139564" />
+    <state x="371" y="116" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584995425190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="116" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1584995425190" />
+    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585219507103">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1585219507103" />
+    <state x="395" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585218720835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1585218720835" />
+    <state x="287" y="99" width="896" height="581" key="#xdebugger.evaluate" timestamp="1585219777473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="287" y="99" width="896" height="581" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1585219777473" />
+    <state width="1237" height="133" key="GridCell.Tab.0.bottom" timestamp="1585223402792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585223402792" />
+    <state width="1237" height="133" key="GridCell.Tab.0.center" timestamp="1585223402792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585223402792" />
+    <state width="1237" height="133" key="GridCell.Tab.0.left" timestamp="1585223402788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585223402788" />
+    <state width="1237" height="133" key="GridCell.Tab.0.right" timestamp="1585223402792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585223402792" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585220322978">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585220322978" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1585220322978">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585220322978" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1585220322978">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585220322978" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1585220322978">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585220322978" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1585217292704">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1585217292704" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1585215301257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585215301257" />
+    <state x="412" y="59" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585216198585">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="59" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1585216198585" />
+    <state x="336" y="77" width="697" height="526" key="find.popup" timestamp="1584221566821">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="77" width="697" height="526" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1584221566821" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sequence/SequenceProcessor.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/filereader/LocalDiskFileReaderTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/filereader/LocalDiskFileReaderTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/filereader/LocalDiskFileReader.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sequence/Sequence.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/operations/InversingProcessorTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Runner.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SequenceProcessor$OperationsProcessorFactoryTest_sdf.ic" NAME="OperationsProcessorFactoryTest.sdf Coverage Results" MODIFIED="1585217912952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>operations.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SequenceProcessor$OperationsProcessorFactoryTest.ic" NAME="OperationsProcessorFactoryTest Coverage Results" MODIFIED="1585217961981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>operations.*</FILTER>
+    </SUITE>
+  </component>
+</project>
