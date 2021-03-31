@@ -32,7 +32,7 @@
     <dependency>
       <artifactId>guava</artifactId>
       <groupId>com.google.guava</groupId>
-      <version>28.2-jre</version>
+      <version>29.0-jre</version>
     </dependency>
     <dependency>
       <artifactId>mockito-all</artifactId>
